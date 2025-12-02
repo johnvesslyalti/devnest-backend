@@ -12,10 +12,5 @@ devnest/
 │ ├── prisma/
 │ │ └── schema.prisma
 │ └── package.json
-│
-└── frontend/
-├── app/
-├── components/
-├── lib/
-└── package.json
+
 

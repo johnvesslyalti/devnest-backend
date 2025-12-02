@@ -20,15 +20,9 @@ The MVP focuses on clean posting, simple profiles, and a fast backend.
 - JWT Authentication
 - Zod for validation
 
-### Frontend
-- React
-- TailwindCSS
-- Motion
-
 ### Deployment
 - Backend → Render/Fly.io
 - Database → Supabase / NeonDB
-- Frontend → Vercel
 
 ## 📁 Documentation
 - [MVP Specification](docs/mvp.md)

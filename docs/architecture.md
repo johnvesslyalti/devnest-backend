@@ -12,10 +12,7 @@ Node.js + Express Backend
 v
 PostgreSQL Database (Prisma ORM)
 
-yaml
-Copy code
 
----
 
 ## 🖥 Backend Services
 - Express.js REST API
